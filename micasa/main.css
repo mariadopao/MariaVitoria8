@@ -1,0 +1,23 @@
+*{
+    font-family:'roboto',sans-serif;
+
+}
+
+.bg-color-header{
+    background-color: azure;
+}
+
+.navbar-brand{
+    width: 60px;
+}
+
+#navbar-items .navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    
+}
+.carousel-control-prev,
+.carousel-control-next{
+
+}
